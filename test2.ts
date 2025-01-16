@@ -5,3 +5,4 @@
 console.log(123);
 console.log('branch 1, commit lan thu hai');
 console.log('branch 2, commit 1');
+console.log('branch 1, commit 3');
